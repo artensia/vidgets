@@ -1,1 +1,1 @@
-# vidgets
+# widgets
